@@ -1,14 +1,3 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: SIPO.v
-//  TYPE: module.
-//  DATE: 31/8/2022
-//  KEYWORDS: SIPO, Shift register, Reciever.
-//  PURPOSE: An RTL modelling for a Serial-In-Parallel-Out shift register,
-//  controlled by an FSM to satisfy the UART-Rx protocol.
-//  Stores the data recieved at the positive-clock-edges [BaudRate], then
-//  pass the data frame to the DeFrame unit. 
 
 module SIPO(
     input  wire         reset_n,        //  Active low reset.
