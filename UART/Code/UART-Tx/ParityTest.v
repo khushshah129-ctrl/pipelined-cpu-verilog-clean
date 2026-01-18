@@ -1,9 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: ParityTest.v
-//  TYPE: Test fixture "Test bench".
-//  DATE: 30/8/2022
+
 //  KEYWORDS: Parity.
 
 `timescale 1ns/1ps
