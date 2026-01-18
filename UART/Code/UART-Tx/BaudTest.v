@@ -1,10 +1,3 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: BaudTest.v
-//  TYPE: Test fixture "Test bench".
-//  DATE: 30/8/2022
-//  KEYWORDS: Baud Rate, Clock Generator.
 
 `timescale 1ns/1ps
 module BaudTest;
