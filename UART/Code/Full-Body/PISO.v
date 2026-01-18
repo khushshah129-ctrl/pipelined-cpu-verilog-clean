@@ -1,12 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: PISO.v
-//  TYPE: module.
-//  DATE: 30/8/2022
-//  KEYWORDS: Frame, Data-Tx, PISO, shift register.
-//  PURPOSE: An RTL modelling for the transmitter's frame generator,
-//  and shift register to send data serially in 11 baud_clk cycles.
+
 
 module PISO(
     input wire           reset_n,            //  Active low reset.
