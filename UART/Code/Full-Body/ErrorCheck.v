@@ -1,12 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: ErrorCheck.v
-//  TYPE: module.
-//  DATE: 31/8/2022
-//  KEYWORDS: Parity, Error.
-//  PURPOSE: An RTL modelling for checking if the data are transmitted correctly,
-//  checks the whole package including the start and stop bits.
+
 
 module ErrorCheck(
     input wire         reset_n,       //  Active low reset.
