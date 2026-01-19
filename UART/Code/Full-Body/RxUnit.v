@@ -1,14 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: RxUnit.v
-//  TYPE: module.
-//  DATE: 31/8/2022
-//  KEYWORDS: Reciever, UART-Rx.
-//  PURPOSE: An RTL modelling for the Top module for the Reciever unit.
-//  Architecture designed by Mohamed Maged,
-//  according to the UART protocol.
-//  Full Architecture will be provided in the README file.
+
 
 module RxUnit(
     input wire         reset_n,      //  Active low reset.
