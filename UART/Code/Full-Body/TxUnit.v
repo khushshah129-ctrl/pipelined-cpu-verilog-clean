@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: TxUnit.v
-//  TYPE: module.
-//  DATE: 30/8/2022
-//  KEYWORDS: Tx, Data-Tx, Transmitter, UART-Tx.
-//  PURPOSE: An RTL modelling for the UART-Tx.
+
 
 module TxUnit(
     input wire          reset_n,       //  Active low reset.
